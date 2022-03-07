@@ -3,12 +3,11 @@ output:
   pdf_document: default
   html_document: default
 ---
-<!-- Replace below with the title of your project -->
+
 Baby Birth Weight Analysis
 ========================================================
 
 
-<!-- Replace below with your team name and the last and first name of each team member -->
 ### JoJo Summersett, Klaire Pham, Jason Phillip
 
 
